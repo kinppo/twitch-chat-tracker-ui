@@ -1,0 +1,897 @@
+[
+  {
+    "id": "1",
+    "username": "kinppo",
+    "channels": [
+      {
+        "id": "6",
+        "name": "keenpachl",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello keenpachl",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "6",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "7",
+            "message": "I'm Happy!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "8",
+            "message": "I'm Sad!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "9",
+            "message": "GoodBye Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "10",
+            "message": "Test!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "11",
+            "message": "Hello keenpachl",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "12",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "13",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "14",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "15",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "16",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "17",
+            "message": "I'm Happy!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "18",
+            "message": "I'm Sad!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "19",
+            "message": "GoodBye Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "20",
+            "message": "Test!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "21",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "22",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "23",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "24",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "25",
+            "message": "I'm Happy!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "26",
+            "message": "I'm Sad!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "27",
+            "message": "GoodBye Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "28",
+            "message": "Test!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "sssmina",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello sssmina",
+            "createdAt": "2024-09-20T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-18T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Aiphey",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello Aiphey",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-13T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "rainman",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello rainman",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-10T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "mapozin",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello mapozin",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-05T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "bazouya",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello bazouya",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-01T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "name": "harit",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello harit!",
+            "createdAt": "2024-07-12T09:30:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-08-28T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "name": "SAMJEDNY",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello SAMJEDNY!",
+            "createdAt": "2024-07-12T09:30:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-07-28T12:35:56Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "username": "shinkooo1",
+    "channels": [
+      {
+        "id": "6",
+        "name": "keenpachl",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello keenpachl",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "6",
+            "message": "I'm Happy!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "7",
+            "message": "I'm Sad!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          },
+          {
+            "id": "8",
+            "message": "GoodBye Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "sssmina",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello sssmina",
+            "createdAt": "2024-09-20T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-18T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Aiphey",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello Aiphey",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-13T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "rainman",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello rainman",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-10T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "mapozin",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello mapozin",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-05T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "bazouya",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello bazouya",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-01T12:35:56Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "username": "ssleepy_y",
+    "channels": [
+      {
+        "id": "6",
+        "name": "keenpachl",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello keenpachl",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "sssmina",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello sssmina",
+            "createdAt": "2024-09-20T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-18T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Aiphey",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello Aiphey",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-13T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "rainman",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello rainman",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-10T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "mapozin",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello mapozin",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-05T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "bazouya",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello bazouya",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-01T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "name": "harit",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello harit!",
+            "createdAt": "2024-07-12T09:30:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-08-28T12:35:56Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "username": "fouadox",
+    "channels": [
+      {
+        "id": "6",
+        "name": "keenpachl",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello keenpachl",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "7",
+        "name": "sssmina",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello sssmina",
+            "createdAt": "2024-09-20T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-18T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "8",
+        "name": "Aiphey",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello Aiphey",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-13T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "9",
+        "name": "rainman",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello rainman",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-10T12:50:56Z"
+          }
+        ]
+      },
+      {
+        "id": "10",
+        "name": "mapozin",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello mapozin",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-05T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "11",
+        "name": "bazouya",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello bazouya",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-01T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "12",
+        "name": "harit",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello harit!",
+            "createdAt": "2024-07-12T09:30:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-08-28T12:35:56Z"
+          }
+        ]
+      },
+      {
+        "id": "13",
+        "name": "SAMJEDNY",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello SAMJEDNY!",
+            "createdAt": "2024-07-12T09:30:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-07-28T12:35:56Z"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "username": "The19juicer",
+    "channels": [
+      {
+        "id": "6",
+        "name": "keenpachl",
+        "messages": [
+          {
+            "id": "1",
+            "message": "Hello keenpachl",
+            "createdAt": "2024-09-28T12:34:56Z"
+          },
+          {
+            "id": "2",
+            "message": "Hello Everyone",
+            "createdAt": "2024-09-28T12:35:56Z"
+          },
+          {
+            "id": "3",
+            "message": "I'm here for now!",
+            "createdAt": "2024-09-28T12:36:56Z"
+          },
+          {
+            "id": "4",
+            "message": "Good Morning Everyone!",
+            "createdAt": "2024-09-28T12:37:56Z"
+          },
+          {
+            "id": "5",
+            "message": "Good night Everyone!",
+            "createdAt": "2024-09-29T12:50:56Z"
+          }
+        ]
+      }
+    ]
+  }
+]

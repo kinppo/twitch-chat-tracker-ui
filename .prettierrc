@@ -1,0 +1,32 @@
+{
+  "trailingComma": "all",
+  "semi": true,
+  "tabWidth": 2,
+  "singleQuote": true,
+  "jsxSingleQuote": true,
+  "importOrder": [
+    "^(react/(.*)$)|^(react$)",
+    "^(next/(.*)$)|^(next$)",
+    "<THIRD_PARTY_MODULES>",
+    "^types$",
+    "^@/env(.*)$",
+    "^@/types/(.*)$",
+    "^@/config/(.*)$",
+    "^@/constants/(.*)$",
+    "^@/lib/(.*)$",
+    "^@/utils/(.*)$",
+    "^@/actions/(.*)$",
+    "^@/services/(.*)$",
+    "^@/hooks/(.*)$",
+    "^@/contexts/(.*)$",
+    "^@/components/(.*)$",
+    "^@/styles/(.*)$",
+    "^@/app/(.*)$",
+    "^[./]"
+  ],
+  "importOrderSortSpecifiers": true,
+  "plugins": [
+    "@trivago/prettier-plugin-sort-imports",
+    "prettier-plugin-tailwindcss"
+  ]
+}
